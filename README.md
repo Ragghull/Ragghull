@@ -1,5 +1,47 @@
-# About Me:
-Hey I'm Raghul<br><br> - Flutter dev<br> - Into AI & ML  & Data science<br> - Building real-world apps and experimenting with cool ideas<br><br>I'm currently exploring the space between creativity + tech ✨<br>Also building projects to learn deeply<br>I'm looking for opportunities with good work culture, learning & impact > pay<br><br>Open to<br>collaborations, internships & exciting project ideas<br><br>Fun Fact<br><br>I play keyboard sometimes when life needs background music <br>
+# About me:
+# <i><b>Raghul</b></i>
+
+<i>
+Flutter Developer  
+AI / ML & Data Science Enthusiast  
+Building real-world applications and exploring the intersection of creativity and technology
+</i>
+
+---
+
+## <i><b>About</b></i>
+
+<i>
+• Currently focused on learning through hands-on projects  
+• Interested in AI-powered products, modern app experiences, and data-driven systems  
+• Open to opportunities that value learning, collaboration, and meaningful work over compensation alone
+</i>
+
+---
+
+## <i><b>Open To</b></i>
+
+<i>
+• Collaborations  
+• Internships  
+• Innovative project ideas
+</i>
+
+---
+
+## <i><b>Interests</b></i>
+
+<i>
+Technology • Design • Problem Solving • Music
+</i>
+
+---
+
+## <i><b>Fun Fact</b></i>
+
+<i>
+I play keyboard occasionally when life needs background music.
+</i>
 
 
 ## 🌐 Socials:
