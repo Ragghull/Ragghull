@@ -2,14 +2,15 @@
 <i><b>Hey I'm Raghul</b></i><br><br>
 
 <i>
-• Flutter Developer<br>
+
 • Into AI & ML & Data Science<br>
+• Flutter Developer<br>
 • Building real-world apps and experimenting with cool ideas
 </i><br><br>
 
 <i>
-Currently exploring the space between creativity + tech<br>
-Also building projects to learn deeply<br>
+Currently exploring the space between creativity + tech 👨🏻‍💻<br>
+Also building projects to learn deeply 📽️ <br>
 Looking for opportunities with good work culture, learning & impact > pay
 </i><br><br>
 
@@ -21,7 +22,7 @@ Looking for opportunities with good work culture, learning & impact > pay
 • Exciting project ideas
 </i><br><br>
 
-<i><b>Fun Fact</b></i><br><br>
+<i><b>Fun Fact</b></i><br>
 
 <i>
 I play keyboard sometimes when life needs background music
