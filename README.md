@@ -39,6 +39,6 @@ I play keyboard sometimes when life needs background music
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ragghull&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ragghull&icon=9&color=9)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Ragghull&label=Profile%20Views&color=0e75b6&style=flat)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
